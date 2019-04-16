@@ -1,0 +1,11 @@
+.DS_Store
+*~
+out/
+*.class
+*.pages
+*.doc
+*.docx
+*Notes.pdf
+.idea/**
+gradle
+build
